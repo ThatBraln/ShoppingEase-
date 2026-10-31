@@ -35,7 +35,7 @@ export const PRODUCTS_DATA: Product[] = [
     originalPrice: 219.00,
     rating: 4.8,
     reviewCount: 194,
-    image: 'https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80',
+    image: '/src/assets/images/smartwatch_health_tracker_1793452159918.jpg',
     shortDescription: 'All-day biometric tracking, sapphire glass display, and 14-day battery life in a titanium case.',
     fullDescription: 'Monitor your health metrics effortlessly with the Aura Track 4. Built with an aerospace-grade titanium bezel and scratch-resistant sapphire crystal, it measures heart rate variability, SpO2, sleep staging, and activity metrics with clinical precision.',
     features: [
@@ -58,7 +58,7 @@ export const PRODUCTS_DATA: Product[] = [
     price: 145.00,
     rating: 4.9,
     reviewCount: 156,
-    image: 'https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=800&q=80',
+    image: '/src/assets/images/mechanical_keyboard_1793452185776.jpg',
     shortDescription: 'Custom gasket-mounted wireless mechanical keyboard with hot-swappable tactile switches.',
     fullDescription: 'Designed for tactile typing pleasure, featuring an all-aluminum CNC machined case, double-gasket acoustic dampening, custom PBT keycaps, and hot-swappable socket design for effortless personalization.',
     features: [
@@ -106,7 +106,7 @@ export const PRODUCTS_DATA: Product[] = [
     price: 139.00,
     rating: 4.8,
     reviewCount: 182,
-    image: 'https://images.unsplash.com/photo-1593618998160-e34014e67546?auto=format&fit=crop&w=800&q=80',
+    image: '/src/assets/images/damascus_chef_knife_1793451903805.jpg',
     shortDescription: '67-layer Japanese Damascus steel blade with ergonomic stabilized pakkawood octagonal handle.',
     fullDescription: 'Handcrafted by master bladesmiths, this 8-inch Santoku knife delivers surgical cutting precision. The VG-10 high-carbon core holds an ultra-sharp 12-degree edge, resisting corrosion while slicing vegetables, meat, and fish effortlessly.',
     features: [
@@ -129,7 +129,7 @@ export const PRODUCTS_DATA: Product[] = [
     originalPrice: 210.00,
     rating: 4.9,
     reviewCount: 260,
-    image: 'https://images.unsplash.com/photo-1584990347449-39b1a5298816?auto=format&fit=crop&w=800&q=80',
+    image: '/src/assets/images/cast_iron_dutch_oven_1793452184774.jpg',
     shortDescription: 'Heavy-gauge cast iron with dual-layer porcelain enamel for slow roasting, braising, and sourdough.',
     fullDescription: 'A timeless kitchen heirloom that locks in moisture and distributes heat flawlessly across gas, electric, induction, or inside ovens up to 500°F. The tight-fitting lid features internal self-basting spikes for succulent stews.',
     features: [
@@ -176,7 +176,7 @@ export const PRODUCTS_DATA: Product[] = [
     price: 95.00,
     rating: 4.7,
     reviewCount: 142,
-    image: 'https://images.unsplash.com/photo-1584100936595-c0654b55a2e2?auto=format&fit=crop&w=800&q=80',
+    image: '/src/assets/images/linen_throw_blanket_1793452183818.jpg',
     shortDescription: '100% natural stonewashed European flax linen with hand-fringed hems in oatmeal neutral.',
     fullDescription: 'Woven from authentic French flax and stonewashed for cloud-like softness right out of the box. Breathable in summer and cozy in winter, this versatile 50 x 70 inch throw drape adds subtle luxury to sofas and bedding.',
     features: [
@@ -198,7 +198,7 @@ export const PRODUCTS_DATA: Product[] = [
     price: 78.00,
     rating: 4.8,
     reviewCount: 96,
-    image: 'https://images.unsplash.com/photo-1563861826100-9cb868fdbe1c?auto=format&fit=crop&w=800&q=80',
+    image: '/src/assets/images/minimalist_oak_wall_clock_1793452236957.jpg',
     shortDescription: '12-inch solid FSC oak dial with silent sweeping German quartz mechanism.',
     fullDescription: 'Crafted from sustainable solid white oak with delicate carved hour markers and matte black aluminum hands. Completely silent continuous sweeping quartz movement prevents irritating clicking noises in quiet bedrooms or home offices.',
     features: [
@@ -222,7 +222,7 @@ export const PRODUCTS_DATA: Product[] = [
     price: 64.00,
     rating: 4.9,
     reviewCount: 215,
-    image: 'https://images.unsplash.com/photo-1587654780291-39c9404d746b?auto=format&fit=crop&w=800&q=80',
+    image: '/src/assets/images/wooden_toy_building_blocks_1793451902767.jpg',
     shortDescription: '48-piece natural beechwood geometric blocks with non-toxic botanical dyes for open-ended play.',
     fullDescription: 'Inspire spatial creativity, balance perception, and engineering intuition in young builders. Smoothly sanded from sustainably harvested German beechwood with water-based eco-friendly pastel stains and tactile curved arches.',
     features: [
@@ -245,7 +245,7 @@ export const PRODUCTS_DATA: Product[] = [
     originalPrice: 59.00,
     rating: 4.8,
     reviewCount: 178,
-    image: 'https://images.unsplash.com/photo-1561149877-84d268ba65b8?auto=format&fit=crop&w=800&q=80',
+    image: '/src/assets/images/stem_robotics_toy_rover_1793452205963.jpg',
     shortDescription: 'Gear-driven solar-powered exploration vehicle with planetary gearbox and modular treads.',
     fullDescription: 'A captivating hands-on introduction to clean solar energy and mechanical engineering. Kids construct a functioning motorized rover using snap-together gears and a high-efficiency mini photovoltaic panel that runs directly under sunlight or flashlight.',
     features: [
@@ -269,7 +269,7 @@ export const PRODUCTS_DATA: Product[] = [
     price: 68.00,
     rating: 4.9,
     reviewCount: 240,
-    image: 'https://images.unsplash.com/photo-1627123424574-724758594e93?auto=format&fit=crop&w=800&q=80',
+    image: '/src/assets/images/leather_bifold_wallet_1793451903169.jpg',
     shortDescription: 'Hand-stitched vegetable-tanned Italian leather with RFID protection and slim card sleeves.',
     fullDescription: 'Cut from premium Italian vegetable-tanned cowhide that develops a rich, personalized patina over years of daily carry. Comfortably holds up to 10 cards and flat banknotes with integrated RFID blocking aluminum liner.',
     features: [
@@ -292,7 +292,7 @@ export const PRODUCTS_DATA: Product[] = [
     originalPrice: 135.00,
     rating: 4.7,
     reviewCount: 167,
-    image: 'https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=800&q=80',
+    image: '/src/assets/images/acetate_polarized_sunglasses_1793452205156.jpg',
     shortDescription: 'Hand-polished Italian Mazzucchelli acetate frames with polarized category 3 UV400 lenses.',
     fullDescription: 'Timeless mid-century styling meets modern lens technology. Featuring 5-barrel custom barrel hinges, anti-reflective internal coatings, and glare-eliminating polarization that protects your eyes in high sunlight.',
     features: [
@@ -314,7 +314,7 @@ export const PRODUCTS_DATA: Product[] = [
     price: 155.00,
     rating: 4.9,
     reviewCount: 204,
-    image: 'https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=800&q=80',
+    image: '/src/assets/images/waxed_canvas_weekender_bag_1793452237090.jpg',
     shortDescription: '18oz water-repellent paraffin waxed cotton canvas with brass YKK hardware and bridle leather straps.',
     fullDescription: 'The ultimate getaway duffle bag built to withstand decades of rigorous travel. Water-repellent waxed canvas sheds rain and snow while the structured base features protective brass studs.',
     features: [
@@ -339,7 +339,7 @@ export const PRODUCTS_DATA: Product[] = [
     originalPrice: 170.00,
     rating: 4.8,
     reviewCount: 382,
-    image: 'https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=800&q=80',
+    image: '/src/assets/images/running_athletic_sneakers_1793451904368.jpg',
     shortDescription: 'Engineered breathable knit upper with supercritical responsive foam cushioning midsole.',
     fullDescription: 'Engineered for smooth transitions whether putting in morning road miles or walking all afternoon. The engineered seamless knit wraps your foot securely while the high-rebound midsole delivers responsive energy return.',
     features: [
@@ -361,7 +361,7 @@ export const PRODUCTS_DATA: Product[] = [
     price: 198.00,
     rating: 4.9,
     reviewCount: 114,
-    image: 'https://images.unsplash.com/photo-1533867617858-e7b97e060509?auto=format&fit=crop&w=800&q=80',
+    image: '/src/assets/images/calfskin_derby_dress_shoes_1793452322676.jpg',
     shortDescription: 'Goodyear welted French box calfskin derby shoes with Dainite rubber studs sole.',
     fullDescription: 'Meticulously crafted using traditional 200-step Goodyear welt construction. Resoleable for a lifetime of formal occasions, meetings, and evening wear with a burnished natural finish.',
     features: [
@@ -385,7 +385,7 @@ export const PRODUCTS_DATA: Product[] = [
     price: 89.00,
     rating: 4.9,
     reviewCount: 290,
-    image: 'https://images.unsplash.com/photo-1584735935682-2f2b69dff9d2?auto=format&fit=crop&w=800&q=80',
+    image: '/src/assets/images/cork_yoga_mat_fitness_1793452186044.jpg',
     shortDescription: 'Commercial-grade virgin rubber hex dumbbell pair with ergonomic knurled chrome handles.',
     fullDescription: 'Heavy-duty commercial fitness dumbbells engineered with solid cast iron heads welded to contoured chrome-plated handles. The anti-roll hex geometry keeps weights steady between sets.',
     features: [
@@ -408,7 +408,7 @@ export const PRODUCTS_DATA: Product[] = [
     originalPrice: 85.00,
     rating: 4.8,
     reviewCount: 163,
-    image: 'https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?auto=format&fit=crop&w=800&q=80',
+    image: '/src/assets/images/cork_yoga_mat_fitness_1793452186044.jpg',
     shortDescription: 'Organic sustainable cork surface with dense non-slip tree rubber base for superior dry/wet grip.',
     fullDescription: 'Naturally antimicrobial and odor-resistant, this 6mm cushioned yoga mat provides stability for delicate joints while cork grip actually increases as you perspire. 100% biodegradable and PVC-free.',
     features: [
@@ -432,7 +432,7 @@ export const PRODUCTS_DATA: Product[] = [
     price: 88.00,
     rating: 4.8,
     reviewCount: 210,
-    image: 'https://images.unsplash.com/photo-1556905055-8f358a7a47b2?auto=format&fit=crop&w=800&q=80',
+    image: '/src/assets/images/heavyweight_cotton_crewneck_1793452204860.jpg',
     shortDescription: '450 GSM combed organic cotton terry with flatlock seams and ribbed side gussets.',
     fullDescription: 'A modern staple built like vintage athletic wear. Woven on low-tension looms from heavy 450 GSM combed cotton terry for supreme warmth and durability without shrinking or warping.',
     features: [
@@ -455,7 +455,7 @@ export const PRODUCTS_DATA: Product[] = [
     originalPrice: 230.00,
     rating: 4.9,
     reviewCount: 135,
-    image: 'https://images.unsplash.com/photo-1576995853123-5a10305d93c0?auto=format&fit=crop&w=800&q=80',
+    image: '/src/assets/images/selvedge_denim_jacket_1793452205737.jpg',
     shortDescription: '14.5oz shuttle-loomed red-line selvedge denim with custom brass hardware.',
     fullDescription: 'Woven slowly on heritage Toyoda shuttle looms in Okayama, Japan. This raw indigo jacket will crease and fade according to your individual life movements, becoming an irreplaceable second skin.',
     features: [
