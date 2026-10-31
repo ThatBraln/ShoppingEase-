@@ -1,0 +1,6 @@
+{
+  "name": "Nordic Commerce - Modern Online Store",
+  "description": "Discover, search, and purchase premium products across electronics, kitchenware, home living, fashion, sports, and toys with instant search and streamlined checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
